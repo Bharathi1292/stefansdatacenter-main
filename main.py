@@ -5,6 +5,7 @@ from consolemenu.prompt_utils import *
 from colors import color
 import pyfiglet
 
+
 def bildRapport():
     print("Report")
     input("Press key to continue")
